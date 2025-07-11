@@ -1,12 +1,53 @@
-# React + Vite
+🧠 AI Code Reviewer
+An intelligent, developer-friendly tool that reviews code using Google’s GenAI. It provides bug detection, quality ratings, optimization tips, and clean explanations — all in a responsive in-browser editor.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+✅ Automated Code Review using Google GenAI SDK
 
-Currently, two official plugins are available:
+🐞 Bug Detection and best-practice-based Improvement Suggestions
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✨ Quality Scoring: Better, Good, Normal, or Bad
 
-## Expanding the ESLint configuration
+📚 Clear Code Explanation step-by-step
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+💻 In-browser code editing with Monaco Editor and syntax highlighting
+
+🌐 Responsive UI with Tailwind CSS and modern React libraries (react-select, react-markdown)
+
+🔄 Asynchronous API Handling with smooth loading states and Markdown-rendered AI responses
+
+🛠️ Tech Stack
+React
+Tailwind CSS
+Monaco Editor
+Google GenAI SDK (@google/genai)
+react-select
+react-markdown
+RingLoader (react-spinners)
+
+🧪 Getting Started
+Clone the repository
+
+bash
+Copy
+Edit
+git clone https://github.com/your-username/ai-code-reviewer.git
+cd ai-code-reviewer
+Install dependencies
+
+bash
+Copy
+Edit
+npm install
+Create a .env file in the root and add your Google API key:
+
+env
+Copy
+Edit
+VITE_GENAI_API_KEY=your_api_key_here
+Run the app
+
+bash
+Copy
+Edit
+npm run dev
