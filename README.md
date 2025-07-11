@@ -18,11 +18,17 @@ An intelligent, developer-friendly tool that reviews code using Google’s GenAI
 
 🛠️ Tech Stack
 React
+
 Tailwind CSS
+
 Monaco Editor
+
 Google GenAI SDK (@google/genai)
+
 react-select
+
 react-markdown
+
 RingLoader (react-spinners)
 
 🧪 Getting Started
