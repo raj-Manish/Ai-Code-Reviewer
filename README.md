@@ -1,4 +1,4 @@
-🧠 AI Code Reviewer
+# 🧠 AI Code Reviewer
 An intelligent, developer-friendly tool that reviews code using Google’s GenAI. It provides bug detection, quality ratings, optimization tips, and clean explanations — all in a responsive in-browser editor.
 
 🚀 Features
