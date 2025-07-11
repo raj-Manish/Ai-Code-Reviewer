@@ -1,7 +1,7 @@
 # 🧠 AI Code Reviewer
 An intelligent, developer-friendly tool that reviews code using Google’s GenAI. It provides bug detection, quality ratings, optimization tips, and clean explanations — all in a responsive in-browser editor.
 
-🚀 Features
+## 🚀 Features
 ✅ Automated Code Review using Google GenAI SDK
 
 🐞 Bug Detection and best-practice-based Improvement Suggestions
@@ -16,7 +16,7 @@ An intelligent, developer-friendly tool that reviews code using Google’s GenAI
 
 🔄 Asynchronous API Handling with smooth loading states and Markdown-rendered AI responses
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 React
 
 Tailwind CSS
@@ -31,7 +31,7 @@ react-markdown
 
 RingLoader (react-spinners)
 
-🧪 Getting Started
+## 🧪 Getting Started
 Clone the repository
 
 bash
